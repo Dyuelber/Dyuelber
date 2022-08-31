@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dyuelber
 - 👀 I'm interested in learning nodejs and architecture serverless
-- 🌱 I’m currently learning e working with mysql, php, javascript and vuejs with laravel framework
+- 🌱 I am currently learning and working with mysql, php, javascript and vuejs with laravel framework, focusing on microservices. 
 
-- https://www.linkedin.com/in/dyuelber-rodrigues-miranda-2aa809207
+- https://www.linkedin.com/in/dyuelber
 
 <!---
 Dyuelber/Dyuelber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
