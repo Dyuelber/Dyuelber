@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dyuelber
-- 👀 I'm interested in learning nodejs and architecture serverless
+- 👀 I'm interested in learning nodejs, golang and architecture serverless
 - 🌱 I am currently learning and working with mysql, php, javascript and vuejs with laravel framework, focusing on microservices. 
 
 - https://www.linkedin.com/in/dyuelber
