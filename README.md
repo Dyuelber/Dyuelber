@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Dyuelber
-- 👀 I'm interested in learning nodejs, golang and architecture serverless
-- 🌱 I am currently learning and working with mysql, php, javascript and vuejs with laravel framework, focusing on microservices. 
+👋 Hi, I’m @Dyuelber.
 
-- https://www.linkedin.com/in/dyuelber
+👀 I am interested in learning golang and serverless architecture.
+
+🌱 I learned and worked for a while with mysql, php, javascript and vue.js with laravel framework, focusing on microservices.
+
+😏 I'm currently learning and working with typescript, with mongodb as a database, focused on microservices, for the front-end I use the angular framework.
+
+👉 https://www.linkedin.com/in/dyuelber
 
 <!---
 Dyuelber/Dyuelber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
