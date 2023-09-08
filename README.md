@@ -1,4 +1,4 @@
-👋 Hi, I’m @Dyuelber.
+👋 Hi, I’m @dyuelber.
 
 👀 I am interested in learning golang and serverless architecture.
 
